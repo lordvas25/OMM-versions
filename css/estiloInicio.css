@@ -1,0 +1,16 @@
+
+.login-page, .register-page {
+    background: url(https://megaricos.com/wp-content/uploads/2020/02/shutterstock_575822173.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    color: rgb(201, 98, 1);
+}
+
+.btn-warning{
+    color: #000000;
+    background-color: rgb(243, 172, 19);
+    border-color: rgb(243, 172, 19);
+}

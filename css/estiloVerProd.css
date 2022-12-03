@@ -1,0 +1,29 @@
+.content-wrapper{
+    background-image: url(https://img.freepik.com/fotos-premium/diferente-tienda-comestibles-vista-superior-mesa-blanca-espacio-texto_185193-86898.jpg?w=1380);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+    
+
+.btn-danger{
+    background: rgb(252, 159, 72);
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background: rgb(252, 159, 72);
+}
+
+a {
+    color: rgb(252, 159, 72);
+}
+
+.content-header h1{
+    color: aliceblue;
+}
+
+.btn-primary{
+    background-color: rgb(143, 81, 40);
+    border-color:rgb(112, 56, 19) ;
+}

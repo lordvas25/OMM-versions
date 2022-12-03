@@ -1,0 +1,27 @@
+.login-page, .register-page {
+    background-image: url(https://www.america-retail.com/static//2022/05/online.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-header{
+    background: rgb(250, 126, 44);
+}
+
+.btn-warning{
+    background-color: rgb(250, 126, 44)  ;
+}
+
+a {
+    color: #ff6600;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.card-warning.card-outline {
+    border-top: 3px solid #f8f9fa;
+}
+
+h1{
+    color: #f8f9fa;
+}

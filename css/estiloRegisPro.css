@@ -1,0 +1,16 @@
+.card-primary:not(.card-outline)>.card-header, .card-primary:not(.card-outline)>.card-header a{
+    background: rgb(252, 159, 72);
+}
+
+.btn-primary {
+    background:  rgb(252, 159, 72);
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background: rgb(252, 159, 72);
+}
+
+a {
+    color: rgb(252, 159, 72);
+}

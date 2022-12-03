@@ -1,0 +1,23 @@
+.content-wrapper{
+    background: url(https://img.freepik.com/foto-gratis/bolsa-ecologica-diferentes-frutas-verduras_169016-5438.jpg?w=1380&t=st=1668886157~exp=1668886757~hmac=b55da02cea26020f605c83075e38d0264665ea26f16a407909b26683bd0610bc);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background: rgb(255, 123, 0);
+}
+
+a{
+    color: rgb(255, 123, 0) ;
+}
+
+.small-box>.inner{
+    background: rgb(252, 159, 72) ;
+}
+
+.content-header h1{
+    color: aliceblue;
+}

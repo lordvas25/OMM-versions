@@ -1,0 +1,29 @@
+.card-primary:not(.card-outline)>.card-header{
+    background-color: rgb(255, 169, 89);
+}
+
+.btn-primary{
+    background-color:  rgb(255, 169, 89);
+    border-color: rgb(240, 144, 55);
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: rgb(252, 159, 72);
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link{
+    color: rgb(252, 159, 72);
+}
+
+[class*=sidebar-dark-] .sidebar a{
+    color: rgb(252, 159, 72)
+}
+
+a{
+    color: rgb(255, 169, 89);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(99, 55, 15) ;
+}

@@ -1,0 +1,40 @@
+:root{
+    --dark: #16191c;
+    --dark-x: #313131;
+    --light: #ffffff;
+
+}
+
+body{
+    font-weight: 300;
+    color: var(--dark);
+}
+
+.bg-dark{ background-color: var(--light) !important ;}
+.bg-dark-x{ background-color: var(--dark-x) !important ;}
+
+.form-control{
+    min-height: 3.125rem;
+    line-height: initial;
+}
+
+.contact-box{
+    padding: 1rem;
+}
+
+.img-1{
+    background-image: url('../View/Client-site/images/img1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.img-2{
+    background-image: url('../View/Client-site/images/img2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.img-3{
+    background-image: url('../View/Client-site/images/img3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+

@@ -1,0 +1,21 @@
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: rgb(252, 159, 72);
+    
+}
+
+a{
+    color: rgb(252, 159, 72);
+}
+
+.btn-danger{
+    background-color: rgb(252, 159, 72);
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link {
+    color: rgb(252, 159, 72);
+}
+
+.content-wrapper{
+    background-image: url(https://img.freepik.com/fotos-premium/productos-lacteos-supermercado-estantes-mesa-madera_293060-6195.jpg?w=1380);
+}

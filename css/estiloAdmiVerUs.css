@@ -1,0 +1,46 @@
+.card{
+    background-color: rgb(255, 255, 255);
+}
+
+table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before, 
+table.dataTable.dtr-inline.collapsed>tbody>tr>th.dtr-control:before{
+    background-color: rgb(255, 169, 89);
+}
+
+.page-item.active .page-link{
+    background-color:  rgb(255, 169, 89);
+    border-color: rgb(247, 149, 58);
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background-color:  rgb(255, 169, 89);
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link{
+    color:rgb(255, 169, 89);
+}
+
+[class*=sidebar-dark-] .sidebar a{
+    color:rgb(255, 169, 89);
+}
+
+.content-wrapper {
+    background-image: url(https://www.anahuac.mx/mexico/sites/default/files/noticias/Beneficios-de-hacer-el-super-en-linea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-primary{
+    background-color:  rgb(255, 169, 89);
+    border-color: rgb(252, 146, 47);
+}
+
+.btn-danger{
+    background-color:  rgb(155, 125, 96);
+    border-color: rgb(136, 100, 67) ;
+}
+
+a{
+    color: rgb(255, 169, 89);
+}

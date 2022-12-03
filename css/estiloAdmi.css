@@ -1,0 +1,40 @@
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, 
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background: rgb(252, 159, 72);
+}
+
+.small-box>.inner{
+    background-color: rgb(247, 144, 48);
+}
+
+[class*=sidebar-dark-] .sidebar a{
+    color: rgb(255, 169, 89) ;
+}
+
+.content-wrapper{
+    background: url(https://www.proteste.org.br/-/media/proteste/images/home/suas-contas/supermercados/supermercado-compras-online.jpg?rev=a8507ea5-ff9b-40a0-97e2-c161f65e4b79);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link{
+    color: rgb(255, 169, 89)
+}
+
+a{
+    color: rgb(255, 169, 89);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(99, 55, 15) ;
+}
+
+.CPerfil{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.CPerfil .col-md-12{
+    width: 500px;
+}
